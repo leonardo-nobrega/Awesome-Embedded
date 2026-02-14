@@ -370,7 +370,7 @@ Table of contents
 * [Advanced fault backtrace library for ARM Cortex-M series MCU](https://github.com/armink/CmBacktrace)
 * [mcu-starter-projects](https://github.com/ataradov/mcu-starter-projects) - Simple starter projects for bare-metal MCU development.
 * [DirtyJTAG](https://github.com/jeanthom/DirtyJTAG) - JTAG adapter firmware for STM32F1
-* [Generic_MCU_Software_Infrastructure](https://github.com/GorgonMeducer/Generic_MCU_Software_Infrastructure) - Provide necessary software infrastructure, service, macros to support some high level abstruct concept or paradigm, such as OOPC, FSM, delegate (event-driven) and etc.
+* [Generic MCU Software Infrastructure](https://github.com/GorgonMeducer/Generic_MCU_Software_Infrastructure) - Provides necessary software infrastructure, service, macros to support high level abstract concepts or paradigms, such as OOPC, FSM, delegate (event-driven), etc.
 * [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform.
 * [A Development Environment for ARM TrustZone with GlobalPlatform Support](https://www.eit.lth.se/sprapport.php?uid=793)
 * [A C++ template library for embedded applications](https://github.com/ETLCPP/etl)
