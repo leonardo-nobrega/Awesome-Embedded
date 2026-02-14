@@ -277,13 +277,12 @@ Table of contents
 * [Sample Source: TetrOS is a small feature rich Tetris clone which is written in Assembly.](https://github.com/daniel-e/tetros)
 * [Sample Source: RTOS for microcontrollers](https://github.com/jimtremblay/nOS)
 * [Sample Source: A Powerful embedded RTOS for ARM Cortex M microcontrollers](https://github.com/StratifyLabs/StratifyOS)
-* [Sample Source: An embedded operating system for ARM Cortex-M based microcontrollers](https://github.com/onkwon/yaos)
 * [Sample Source: rnk is a RTOS targeting ARM architecture.](https://github.com/raphui/rnk)
 * [Sample Source: RTOS-From-Scratch](https://github.com/RTOS-From-Scratch/RTOS-From-Scratch)
 * [Sample Source: Embeded OS for PIC32MX270F256B](https://github.com/envzhu/kozos-pic)
 * [How I ended up writing a new real-time kernel](https://dmitryfrank.com/articles/how_i_ended_up_writing_my_own_kernel)
 * [Sample Source: TNeo - a well-formed and carefully tested preemptive real-time kernel for 16- and 32-bits MCUs](https://github.com/dimonomid/tneo)
-* [yaos is an embedded operating system for Internet of Things(IoT) devices, specifically for a single-core processor without MMU virtualization.](https://github.com/onkwon/yaos)
+* [yaos](https://github.com/onkwon/yaos) - an embedded operating system for Internet of Things(IoT) devices, specifically for a single-core processor without MMU virtualization.
 * [RT-Thread for Raspberry Pi 2B ](https://github.com/BernardXiong/raspi2)
 * [tock](https://github.com/tock/tock) - A secure embedded operating system for Cortex-M based microcontrollers.
 * [AliOS-Things](https://github.com/alibaba/AliOS-Things) - AliOS Things released by Alibaba is an open-source implementation of operating system (OS) for Internet of Things (IoT).
