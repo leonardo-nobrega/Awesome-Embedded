@@ -61,7 +61,7 @@ Table of contents
 * [Linker Command File Primer](http://processors.wiki.ti.com/index.php/Linker_Command_File_Primer)
 * [The C build process](https://blog.feabhas.com/2012/06/the-c-build-process/)
 * [Building Bare-Metal ARM Systems with GNU](https://www.embedded.com/design/mcus-processors-and-socs/4026111/Building-Bare-Metal-ARM-Systems-with-GNU-Part-9)
-* [ELF – Executable and Linkable Format](https://2wisebit.wordpress.com/2018/06/08/elf-executable-and-linkable-format/)
+* [ELF - Executable and Linkable Format](https://2wisebit.wordpress.com/2018/06/08/elf-executable-and-linkable-format/)
 * [Toolchains](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs373/toolchain-notes.pdf)
 * [What is an application binary interface (ABI)?](https://stackoverflow.com/questions/2171177/what-is-an-application-binary-interface-abi)
 * [ARM Cortex M4 Blink Example (Linker Script)](http://robotics.mcmanis.com/src/arm-blink/linker-script.html)
@@ -419,7 +419,7 @@ Table of contents
 * [Software Engineering Takeaways](https://blog.regehr.org/archives/1594)
 * [Embedsys weekly newsletter](https://embedsysweekly.com/)
 
-## FAQ_Embedded
+## FAQ Embedded
 
 * [Boot section is removed (gcc, ld, ar, as)](https://www.embeddedrelated.com/showthread/lpc2000/47841-1.php)
 * [What are .axf files?](https://stackoverflow.com/questions/17761328/what-are-axf-files)
