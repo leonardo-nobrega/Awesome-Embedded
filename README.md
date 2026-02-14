@@ -1,12 +1,12 @@
 # Awesome-Embedded
 
-A curated list of awesome embedded resource.
+A curated list of awesome embedded resources.
 
-Table of content
+Table of contents
 
 - [Awesome-Embedded](#awesome-embedded)
   - [Interview](#interview)
-  - [Embedded Software Skill](#embedded-software-skill)
+  - [Embedded Software Skills](#embedded-software-skill)
   - [Common](#common)
   - [MCU programming](#mcu-programming)
     - [Bare-metal programming (Don't need MCU)](#bare-metal-programming-dont-need-mcu)
@@ -24,7 +24,7 @@ Table of content
   - [RTOS](#rtos)
   - [Automotive](#automotive)
   - [OS](#os)
-  - [WindowCE](#windowce)
+  - [WindowsCE](#windowsce)
   - [Compiler](#compiler)
   - [Bootloader](#bootloader)
   - [Makefile](#makefile)
@@ -47,15 +47,15 @@ Table of content
 * [Interview Questions Archive by Company](https://docs.google.com/document/d/1uW030FMfBxKLxXz-eIwyzlMJdERN5DMEwtUnJMYsF-g/edit?usp=sharing)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
-## Embedded Software Skill
+## Embedded Software Skills
 
-* [16 Essential Skills for Embedded Engineer](https://swedishembedded.com/insights-build-embedded-systems/)
 * [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university)
+* [16 Essential Skills for Embedded Engineers](https://swedishembedded.com/insights-build-embedded-systems/)
 * [Programmer Competency Matrix](https://www.sijinjoseph.com/programmer-competency-matrix/)
 
 ## Common
 
-* [Integer size in C on 32-bit and 64-bit system](https://usrmisc.wordpress.com/2012/12/27/integer-sizes-in-c-on-32-bit-and-64-bit-linux/)
+* [Integer size in C on 32-bit and 64-bit systems](https://usrmisc.wordpress.com/2012/12/27/integer-sizes-in-c-on-32-bit-and-64-bit-linux/)
 * [TeraTerm - TTL command reference](http://ttssh2.osdn.jp/manual/en/macro/command/index.html)
 * [TeraTerm Scripts](http://processors.wiki.ti.com/index.php/Teraterm_Scripts)
 * [Linker Command File Primer](http://processors.wiki.ti.com/index.php/Linker_Command_File_Primer)
@@ -315,7 +315,7 @@ Table of content
 * [A simple OS kernel for research, teaching, and fun](https://github.com/dthain/basekernel)
 * [Operating Systems C Term 2018](https://github.com/Mcdonoughd/CS3013)
 
-## WindowCE
+## WindowsCE
 
 * [GuruCE Blog](https://guruce.com/blog)
 * [Windows CE Base Team Blog](https://blogs.msdn.microsoft.com/ce_base/)
