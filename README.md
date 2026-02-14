@@ -49,8 +49,8 @@ Table of contents
 
 ## Embedded Software Skills
 
-* [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university)
 * [16 Essential Skills for Embedded Engineers](https://swedishembedded.com/insights-build-embedded-systems/)
+* [How to be a low-level programmer](https://github.com/gurugio/lowlevelprogramming-university)
 * [Programmer Competency Matrix](https://www.sijinjoseph.com/programmer-competency-matrix/)
 
 ## Common
@@ -385,13 +385,13 @@ Table of contents
 * [nnom](https://github.com/majianjia/nnom) - A higher-level Neural Network library for microcontrollers.
 * [nn4mp](https://github.com/correlllab/nn4mp)
 * [Embedded Learning Library (ELL)](https://github.com/Microsoft/ELL) - Microsoft's library to deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers.
-* [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk) - Libraries to developers run NN models on Snapdragon mobile platforms taking advantage of the CPU, GPU and/or DSP.
+* [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk) - Libraries for developers running NN models on Snapdragon mobile platforms, taking advantage of the CPU, GPU and/or DSP.
 * [CMSIS NN](https://arm-software.github.io/CMSIS_5/NN/html/index.html) - A collection of efficient neural network kernels developed to maximize the performance and minimize the memory footprint of neural networks on Cortex-M processor cores.
 * [ARM Compute Library](https://developer.arm.com/technologies/compute-library) - Set of optimized functions for image processing, computer vision, and machine learning.
 * [uTensor](https://github.com/uTensor/uTensor) - AI inference library based on mbed (an RTOS for ARM chipsets) and TensorFlow.
 * [EmbededAI](https://github.com/boralt/EmbeddedAI) - A library that provides elements of AI to C++ applications.
 * [kann](https://github.com/attractivechaos/kann) - A lightweight C library for artificial neural networks.
-* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool which allows to transpile trained classic ML models into a native code of various programming languages with zero dependencies including C.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool which allows to transpile trained classic ML models into native code of various programming languages with zero dependencies including C.
 
 ## Utilities
 
